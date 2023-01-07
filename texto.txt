@@ -1,3 +1,1 @@
-Este es un documento de texto plano
-este es un salto de linea en el documento de texto plano
-este documento puede tener varios saltos de linea
+Este es un archivo
