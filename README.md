@@ -1,7 +1,9 @@
 ###### curso-git-platzi
 
 #creado por MI
+
 #usando linux
+
 #en cartagena
 
 # Weightlifting BlogWeightlifting Blog
