@@ -1,6 +1,7 @@
 ###### curso-git-platzi
 
 #creado por MI
+#usando linux
 
 # Weightlifting BlogWeightlifting Blog
 Welcome to the open source weightlifting blog! Here, you'll find information about:
