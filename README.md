@@ -2,6 +2,7 @@
 
 #creado por MI
 #usando linux
+#en cartagena
 
 # Weightlifting BlogWeightlifting Blog
 Welcome to the open source weightlifting blog! Here, you'll find information about:
